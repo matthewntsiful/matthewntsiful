@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Cloud & DevOps Engineer with a background in psychology, passionate about simplifying complex concepts and empowering others through hands-on, real-world learning. I lead structured, project-based initiatives to support newcomers in DevOps while continuously building and deploying scalable cloud-native solutions using modern DevOps practices. I also develop applications with the help of documentation and AI tools, creating code for development before applying DevOps principles to ensure seamless deployment and operation.
+I'm a Cloud & DevOps Engineer specializing in AWS infrastructure design, containerization, and CI/CD automation. My technical expertise includes architecting scalable multi-tier applications, implementing infrastructure as code with Terraform, and optimizing deployment pipelines. I build robust cloud-native solutions focusing on security, scalability, and operational efficiency. With strong skills in Linux administration and container orchestration, I develop and deploy applications using modern DevOps practices. My background in psychology enhances my approach to technical problem-solving while allowing me to share knowledge through structured, project-based resources for those entering the field.
 
 ---
 
