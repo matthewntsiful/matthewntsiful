@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Cloud & DevOps Engineer specializing in AWS infrastructure design, containerization, and CI/CD automation. My technical expertise includes architecting scalable multi-tier applications, implementing infrastructure as code with Terraform, and optimizing deployment pipelines. I build robust cloud-native solutions focusing on security, scalability, and operational efficiency. With strong skills in Linux administration and container orchestration, I develop and deploy applications using modern DevOps practices. My background in psychology enhances my approach to technical problem-solving while allowing me to share knowledge through structured, project-based resources for those entering the field.
+I'm a Cloud & DevOps Engineer specializing in AWS infrastructure design, containerization, and CI/CD automation. My technical expertise includes architecting scalable multi-tier applications, implementing infrastructure as code with Terraform, and optimizing deployment pipelines. I build robust cloud-native solutions with a focus on security, scalability, and operational efficiency. Proficient in Linux system administration, container orchestration, and web server configuration, I leverage these core skills to develop and deploy applications using modern DevOps practices. My work centers on creating efficient infrastructure solutions that support business objectives through automation, monitoring, and continuous improvement.
 
 ---
 
@@ -127,11 +127,11 @@ _Check individual repositories for specific contribution guidelines._
 
 ## 🎉 Fun Facts
 
-- Passionate about tech education & mentoring
-- Enjoys fitness planning and structured challenges
-- Loves translating complex topics into beginner-friendly language
 - Advocate for AI-assisted development workflows
-- Believes in "learn by doing" approach to technology
+- Enjoys fitness planning and structured challenges
+- Passionate about automation and infrastructure optimization
+- Constantly experimenting with new cloud services and tools
+- Enthusiast for elegant, efficient code and infrastructure solutions
 
 ---
 
