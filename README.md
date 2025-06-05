@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=matthewntsiful&color=blue&style=flat)](https://github.com/matthewntsiful)
 [![GitHub followers](https://img.shields.io/github/followers/matthewntsiful?label=Follow&style=social)](https://github.com/matthewntsiful)
 
-**Cloud DevOps Engineer | Developer | Mentor | Tech Educator**
+## Cloud DevOps Engineer | Developer | Mentor | Tech Educator
 
 ---
 
@@ -45,22 +45,25 @@ I'm a Cloud & DevOps Engineer specializing in AWS infrastructure design, contain
 ## ⚡ Notable Projects
 
 ### 1. 3-Tier AWS Architecture for BlakkBrotherInc (Dev)
+
 > VPC with public/private/DB subnets, NAT Gateway, ECS with Fargate, RDS Multi-AZ  
 > **Tech:** AWS, ECS, RDS, CloudFormation, Terraform
 
 ### 2. Voting App with Docker Compose
+
 > Microservices app: Python (vote), Node.js (results), .NET (worker), Redis, PostgreSQL  
 > **Tech:** Docker Compose, Multi-language stack
 
 ### 3. Beginner DevOps Bootcamp Projects
+
 > Linux, AWS, Git, Bash & Docker — structured hands-on learning  
 > **Mission:** Make DevOps accessible for beginners, with real-world, practical projects
 
-> _More projects in progress – GitHub repos & documentation coming soon!_
+_More projects in progress – GitHub repos & documentation coming soon!_
 
 ## 📂 Repository Structure
 
-```
+```text
 matthewntsiful/
 ├── aws-projects/           # AWS infrastructure projects
 │   ├── 3-tier-architecture/  # 3-Tier architecture implementation
@@ -87,6 +90,7 @@ matthewntsiful/
 ## ✍️ Blog & Articles
 
 _Coming soon! I'll be sharing my knowledge on:_
+
 - DevOps best practices for beginners
 - AWS architecture patterns
 - Infrastructure as Code tutorials
