@@ -2,6 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=matthewntsiful&color=blue&style=flat)](https://github.com/matthewntsiful)
 [![GitHub followers](https://img.shields.io/github/followers/matthewntsiful?label=Follow&style=social)](https://github.com/matthewntsiful)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Cloud DevOps Engineer | Developer | Mentor | Tech Educator
 
