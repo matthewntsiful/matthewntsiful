@@ -29,49 +29,45 @@ I'm a Cloud & DevOps Engineer passionate about cloud infrastructure, automation,
 
 ---
 
-## 📦 Featured Projects
+## 🏆 Featured Projects
 
-### [Professional Profile Website (Elastic Beanstalk)](https://github.com/matthewntsiful/profile-site-beanstalk-deploy)
+### 🚀 Enterprise-Grade AWS Solutions
+
+#### [Professional Profile Website (Elastic Beanstalk)](https://github.com/matthewntsiful/profile-site-beanstalk-deploy)
 Modern, responsive portfolio deployed on AWS Elastic Beanstalk with automated CI/CD, security scanning, and Slack notifications.
 
-### [Blakk Brother Inc Static Site (S3 + CloudFront)](https://github.com/matthewntsiful/blakkbrotherinc-static-site-cicd-s3-cloudfront)
+#### [Blakk Brother Inc Static Site (S3 + CloudFront)](https://github.com/matthewntsiful/blakkbrotherinc-static-site-cicd-s3-cloudfront)
 Static company website with global CDN, CI/CD via GitHub Actions, SonarCloud code quality, and Slack integration.
 
-### [E-commerce App ECS Deploy](https://github.com/matthewntsiful/ecommerce-app-ecs-deploy)
+#### [E-commerce App ECS Deploy](https://github.com/matthewntsiful/ecommerce-app-ecs-deploy)
 Containerized e-commerce web app on AWS ECS. Features security scanning (Trivy) and blue/green deployments.
 
-### [Portfolio Site EC2 CI/CD](https://github.com/matthewntsiful/cicd-portfolio-ec2-deploy)
-Automated deployment of a portfolio to EC2 with Apache, security hardening, modular workflows, and Slack notifications.
+### 🐳 Containerization & Microservices
 
-### [AWS Lambda Deployment](https://github.com/matthewntsiful/aws-lambda-deployment)
-CI/CD pipeline for serverless deployment of Python Lambda functions with GitHub Actions and AWS CLI.
-
-### [AWS S3 Deployment](https://github.com/matthewntsiful/aws-s3-deployment)
-Secure CI/CD for static sites to S3 using CodeQL, Dependabot, and responsive web design.
-
-### [Node.js EC2 Deployment](https://github.com/matthewntsiful/aws-ec2-deployment)
-Automated Node.js app deployment to EC2 with Nginx and multi-environment support.
-
-### [Static Website Project (Docker + GitHub Pages)](https://github.com/matthewntsiful/static-website-project)
-Nginx, Docker, and AWS EC2 static website project with Bash scripting and GitHub Pages deployment.
-
-### [AWS ECS Deployment](https://github.com/matthewntsiful/aws-ecs-deployment)
-Multi-workflow static site deployment to ECS/Fargate with security scanning and IaC.
-
-### [Soul Sister Bday](https://github.com/matthewntsiful/soul-sister-bday)
-Dockerized, containerized static site with Nginx, GitHub Pages, and multimedia.
-
-### [Ghana Voting App](https://github.com/matthewntsiful/ghana-voting-app)
+#### [Ghana Voting App](https://github.com/matthewntsiful/ghana-voting-app)
 Distributed voting app using microservices: Flask, Node.js, .NET, Redis, PostgreSQL, Docker Compose.
 
-### [NGINX Load Balancer on AWS](https://github.com/matthewntsiful/nginx-load-balancer-aws)
+#### [NGINX Load Balancer on AWS](https://github.com/matthewntsiful/nginx-load-balancer-aws)
 Full NGINX load balancer setup, weighted & least-conn, health checks, and AWS automation.
 
-### [NGINX Reverse Proxy on AWS](https://github.com/matthewntsiful/nginx-reverse-proxy-aws)
-NGINX-based path routing for Python/Node.js apps, with AWS security best practices.
+### ⚡ Serverless & CI/CD
 
-### [DevOps Lite](https://github.com/matthewntsiful/DevOps-Lite)
+#### [AWS Lambda Deployment](https://github.com/matthewntsiful/aws-lambda-deployment)
+CI/CD pipeline for serverless deployment of Python Lambda functions with GitHub Actions and AWS CLI.
+
+#### [DevOps Lite](https://github.com/matthewntsiful/DevOps-Lite)
 All-in-one DevOps fundamentals: Linux admin, Bash scripting, Git, Nginx (reverse proxy & load balancing), automation, cron.
+
+<details>
+<summary>📂 View More Projects</summary>
+
+- [Portfolio Site EC2 CI/CD](https://github.com/matthewntsiful/cicd-portfolio-ec2-deploy) - Automated deployment with Apache & security hardening
+- [AWS S3 Deployment](https://github.com/matthewntsiful/aws-s3-deployment) - Secure CI/CD for static sites with CodeQL
+- [Node.js EC2 Deployment](https://github.com/matthewntsiful/aws-ec2-deployment) - Multi-environment Node.js deployment
+- [AWS ECS Deployment](https://github.com/matthewntsiful/aws-ecs-deployment) - ECS/Fargate with security scanning
+- [NGINX Reverse Proxy on AWS](https://github.com/matthewntsiful/nginx-reverse-proxy-aws) - Path routing with security best practices
+
+</details>
 
 ---
 
