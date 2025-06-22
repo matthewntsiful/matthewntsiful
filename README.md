@@ -21,7 +21,7 @@ I'm a Cloud & DevOps Engineer passionate about cloud infrastructure, automation,
 | **Cloud**                | AWS (EC2, S3, ECS, ECR, Lambda, Elastic Beanstalk, CloudFront, IAM, VPC)  <br> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | **DevOps & CI/CD**       | GitHub Actions (multi-stage pipelines, automated testing, deployment, Slack notifications via webhook), Dependabot, CodeQL, SonarCloud, Trivy, Snyk, SonarQube, Slack Webhook  <br> ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
 | **Containerization & Orchestration** | Docker, Docker Compose, Kubernetes (EKS, k3s, local)  <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| **Infrastructure**       | NGINX (Load Balancer, Reverse Proxy)  <br> ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Infrastructure**       | NGINX (Load Balancer, Reverse Proxy), Apache HTTP Server  <br> ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) |
 | **Backend**              | Node.js, Express, Python (Flask), .NET, PostgreSQL, Redis  <br> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Frontend**             | HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap, React  <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | **Automation & Scripting** | Bash, Linux administration, cron jobs  <br> ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
@@ -130,9 +130,10 @@ _Check individual repositories for specific contribution guidelines._
 
 ## 📫 Contact
 
-- Email: matthew.ntsiful@gmail.com
-- LinkedIn: [matthewntsiful](https://linkedin.com/in/matthewntsiful)
-- GitHub: [@matthewntsiful](https://github.com/matthewntsiful)
+[![Email](https://img.shields.io/badge/Email-matthew.ntsiful@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew.ntsiful@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matthewntsiful-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewntsiful)
+[![GitHub](https://img.shields.io/badge/GitHub-matthewntsiful-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewntsiful)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=aws&logoColor=white)](http://Profile-site-app-env.eba-vnkknerx.eu-north-1.elasticbeanstalk.com)
 
 ---
 
