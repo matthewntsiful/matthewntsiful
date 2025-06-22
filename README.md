@@ -13,7 +13,16 @@ Cloud & DevOps Engineer | Developer | Automation Enthusiast
 
 ## 🚀 About Me
 
-I'm a Cloud & DevOps Engineer passionate about cloud infrastructure, automation, and modern web development. I specialize in AWS, CI/CD pipelines, containerization, infrastructure as code, and scalable application architectures. My work centers on building robust, secure, and efficient solutions that support business goals through automation, monitoring, and continuous improvement.
+🌟 **Cloud & DevOps Engineer** with expertise in designing and deploying enterprise-grade AWS solutions. I transform complex infrastructure challenges into automated, scalable systems that drive business success.
+
+💡 **What I Do:**
+- Architect cloud-native applications on AWS (EC2, ECS, Lambda, S3, CloudFront)
+- Build robust CI/CD pipelines with GitHub Actions, security scanning, and automated deployments
+- Design microservices architectures using Docker, Kubernetes, and container orchestration
+- Implement Infrastructure as Code with Terraform and CloudFormation
+- Optimize system performance through load balancing, monitoring, and automation
+
+🎯 **My Mission:** Bridging the gap between development and operations by creating reliable, secure, and efficient cloud infrastructure that scales with business needs.
 
 ---
 
