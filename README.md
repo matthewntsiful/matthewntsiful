@@ -3,8 +3,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=matthewntsiful&color=blue&style=flat)](https://github.com/matthewntsiful)
 [![GitHub followers](https://img.shields.io/github/followers/matthewntsiful?label=Follow&style=social)](https://github.com/matthewntsiful)
 
-Cloud & DevOps Engineer | Developer | Automation Enthusiast  
-[LinkedIn](https://linkedin.com/in/matthewntsiful) • [Portfolio](http://Profile-site-app-env.eba-vnkknerx.eu-north-1.elasticbeanstalk.com)
+Cloud & DevOps Engineer | Developer | Automation Enthusiast
+
+[![Email](https://img.shields.io/badge/Email-matthew.ntsiful@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:matthew.ntsiful@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matthewntsiful-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewntsiful)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-green?style=flat-square&logo=aws&logoColor=white)](http://Profile-site-app-env.eba-vnkknerx.eu-north-1.elasticbeanstalk.com)
 
 ---
 
