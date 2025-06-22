@@ -1,34 +1,54 @@
-# 👋 Hi, I'm Matthew Ntsiful
+# 👋 Hi, I'm Matthew Odoom Ntsiful
 
 [![Profile Views](https://komarev.com/ghpvc/?username=matthewntsiful&color=blue&style=flat)](https://github.com/matthewntsiful)
 [![GitHub followers](https://img.shields.io/github/followers/matthewntsiful?label=Follow&style=social)](https://github.com/matthewntsiful)
 
-## Cloud DevOps Engineer | Developer | Mentor | Tech Educator
+Cloud & DevOps Engineer | Full-Stack Developer | Automation Enthusiast  
+[LinkedIn](https://linkedin.com/in/matthewntsiful) • [Portfolio](http://Profile-site-app-env.eba-vnkknerx.eu-north-1.elasticbeanstalk.com)
 
 ---
 
 ## 🚀 About Me
 
-I'm a Cloud & DevOps Engineer specializing in AWS infrastructure design, containerization, and CI/CD automation. My technical expertise includes architecting scalable multi-tier applications, implementing infrastructure as code with Terraform, and optimizing deployment pipelines. I build robust cloud-native solutions with a focus on security, scalability, and operational efficiency. Proficient in Linux system administration, container orchestration, and web server configuration, I leverage these core skills to develop and deploy applications using modern DevOps practices. My work centers on creating efficient infrastructure solutions that support business objectives through automation, monitoring, and continuous improvement.
+I'm a Cloud & DevOps Engineer passionate about cloud infrastructure, automation, and modern web development. I specialize in AWS, CI/CD pipelines, containerization, infrastructure as code, and scalable application architectures. My work centers on building robust, secure, and efficient solutions that support business goals through automation, monitoring, and continuous improvement.
 
 ---
 
-## 🛠️ Core Skills & Technologies
+## 🛠️ Core Skills & Tech Stack
 
-- **AWS**: VPC, EC2, RDS, S3, CloudFormation, IAM, ECS (with Fargate)
-- **Infrastructure as Code**: Terraform (modular IaC)
-- **Linux System Administration** & Bash Scripting
-- **Containers**: Docker & Docker Compose
-- **Version Control**: Git & GitHub
-- **Web Servers**: Nginx (reverse proxy, load balancing)
-- **Development**: Application development with AI assistance
-- **Documentation**: Creating comprehensive technical documentation
-- **Certifications**: [View my verified credentials on Credly](https://www.credly.com/users/matthewntsiful)
+### Cloud
+- AWS (EC2, S3, ECS, ECR, Lambda, Elastic Beanstalk, CloudFront, IAM, VPC)
 
-## 💻 Tech Stack
+### DevOps & CI/CD
+- GitHub Actions (Multi-stage pipelines, automated testing, deployment, Slack notifications via webhook)
+- Dependabot, CodeQL, SonarCloud, Trivy, Snyk (Security & Quality)
+- SonarQube (Code quality analysis)
+- Snyk (Vulnerability scanning)
+- Slack Webhook (CI/CD notifications)
 
-**Cloud & DevOps**
+### Containerization
+- Docker, Docker Compose
 
+### Infrastructure
+- NGINX (Load Balancer, Reverse Proxy), Apache
+
+### Backend
+- Node.js, Express, Python (Flask), .NET, PostgreSQL, Redis
+
+### Frontend
+- HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap, React
+
+### Automation & Scripting
+- Bash, Linux administration, cron jobs
+
+### Other
+- Git, GitHub, GitHub Pages, Monitoring (CloudWatch, custom scripts)
+
+---
+
+## 💻 Tech Stack Badges
+
+#### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,41 +57,78 @@ I'm a Cloud & DevOps Engineer specializing in AWS infrastructure design, contain
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Programming Languages**
-
+#### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Web Development**
-
+#### Web Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Version Control & Collaboration**
-
+#### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## ⚡ Notable Projects
+## 📦 Featured Projects
 
-### 1. 3-Tier AWS Architecture for BlakkBrotherInc (Dev)
+### [Professional Profile Website (Elastic Beanstalk)](https://github.com/matthewntsiful/profile-site-beanstalk-deploy)
+Modern, responsive portfolio deployed on AWS Elastic Beanstalk with automated CI/CD, security scanning, and Slack notifications.
 
-> VPC with public/private/DB subnets, NAT Gateway, ECS with Fargate, RDS Multi-AZ  
-> **Tech:** AWS, ECS, RDS, CloudFormation, Terraform
+### [Blakk Brother Inc Static Site (S3 + CloudFront)](https://github.com/matthewntsiful/blakkbrotherinc-static-site-cicd-s3-cloudfront)
+Static company website with global CDN, CI/CD via GitHub Actions, SonarCloud code quality, and Slack integration.
 
-### 2. Voting App with Docker Compose
+### [E-commerce App ECS Deploy](https://github.com/matthewntsiful/ecommerce-app-ecs-deploy)
+Containerized e-commerce web app on AWS ECS. Features security scanning (Trivy) and blue/green deployments.
 
-> Microservices app: Python (vote), Node.js (results), .NET (worker), Redis, PostgreSQL  
-> **Tech:** Docker Compose, Multi-language stack
+### [Portfolio Site EC2 CI/CD](https://github.com/matthewntsiful/cicd-portfolio-ec2-deploy)
+Automated deployment of a portfolio to EC2 with Apache, security hardening, modular workflows, and Slack notifications.
 
-### 3. Beginner DevOps Bootcamp Projects
+### [AWS Lambda Deployment](https://github.com/matthewntsiful/aws-lambda-deployment)
+CI/CD pipeline for serverless deployment of Python Lambda functions with GitHub Actions and AWS CLI.
 
-> Linux, AWS, Git, Bash & Docker — structured hands-on learning  
-> **Mission:** Make DevOps accessible for beginners, with real-world, practical projects
+### [AWS S3 Deployment](https://github.com/matthewntsiful/aws-s3-deployment)
+Secure CI/CD for static sites to S3 using CodeQL, Dependabot, and responsive web design.
 
-_More projects in progress – GitHub repos & documentation coming soon!_
+### [Node.js EC2 Deployment](https://github.com/matthewntsiful/aws-ec2-deployment)
+Automated Node.js app deployment to EC2 with Nginx and multi-environment support.
+
+### [Static Website Project (Docker + GitHub Pages)](https://github.com/matthewntsiful/static-website-project)
+Nginx, Docker, and AWS EC2 static website project with Bash scripting and GitHub Pages deployment.
+
+### [AWS ECS Deployment](https://github.com/matthewntsiful/aws-ecs-deployment)
+Multi-workflow static site deployment to ECS/Fargate with security scanning and IaC.
+
+### [Soul Sister Bday](https://github.com/matthewntsiful/soul-sister-bday)
+Dockerized, containerized static site with Nginx, GitHub Pages, and multimedia.
+
+### [Ghana Voting App](https://github.com/matthewntsiful/ghana-voting-app)
+Distributed voting app using microservices: Flask, Node.js, .NET, Redis, PostgreSQL, Docker Compose.
+
+### [NGINX Load Balancer on AWS](https://github.com/matthewntsiful/nginx-load-balancer-aws)
+Full NGINX load balancer setup, weighted & least-conn, health checks, and AWS automation.
+
+### [NGINX Reverse Proxy on AWS](https://github.com/matthewntsiful/nginx-reverse-proxy-aws)
+NGINX-based path routing for Python/Node.js apps, with AWS security best practices.
+
+### [DevOps Lite](https://github.com/matthewntsiful/DevOps-Lite)
+All-in-one DevOps fundamentals: Linux admin, Bash scripting, Git, Nginx (reverse proxy & load balancing), automation, cron.
+
+---
+
+## 📊 My Skill Highlights
+
+- **Cloud Engineering:** Proficient in designing, deploying, and maintaining cloud-native solutions on AWS.
+- **DevOps Automation:** End-to-end CI/CD, security gates, and deployment pipelines.
+- **Security:** Automated vulnerability scanning, least-privilege IAM, HTTPS, WAF.
+- **Containerization:** Docker best practices, ECS/Fargate orchestration.
+- **Web Development:** Modern frontend and backend stacks for scalable, secure apps.
+- **Infrastructure as Code:** Automated provisioning and reproducible environments.
+- **Monitoring & Analytics:** CloudWatch, Slack, custom reporting scripts.
+- **Collaboration:** Clear documentation, open to contributions, and modern Git workflows.
+
+---
 
 ## 📂 Repository Structure
 
@@ -87,8 +144,11 @@ matthewntsiful/
 │   ├── react-frontend/       # React-based frontend applications
 │   └── node-backend/         # Node.js backend services
 ├── devops-bootcamp/        # Learning resources for beginners
-└── scripts/                # Utility scripts and automation tools
+├── scripts/                # Utility scripts and automation tools
+└── docs/                   # Documentation and tutorials
 ```
+
+---
 
 ## 📚 Current Learning Focus
 
@@ -98,23 +158,6 @@ matthewntsiful/
 - **Cloud Security Best Practices** - AWS Security Hub and compliance
 - **AI-Assisted Development** - Leveraging AI tools for efficient code generation
 - **Full-Stack Development** - Enhancing web application development skills
-
-## ✍️ Blog & Articles
-
-_Coming soon! I'll be sharing my knowledge on:_
-
-- DevOps best practices for beginners
-- AWS architecture patterns
-- Infrastructure as Code tutorials
-- Container orchestration strategies
-- AI-assisted development workflows
-- Full-stack application deployment pipelines
-
----
-
-## 🎯 Mission
-
-> _My goal: Make DevOps accessible, practical, and fun for everyone — especially those just starting out!_
 
 ---
 
@@ -131,24 +174,14 @@ _Check individual repositories for specific contribution guidelines._
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthew%20Ntsiful-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matthewntsiful)
-[![GitHub](https://img.shields.io/badge/GitHub-matthewntsiful-black?style=flat-square&logo=github)](https://github.com/matthewntsiful)
-[![Twitter](https://img.shields.io/badge/Twitter-@matthewntsiful-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/matthewntsiful)
-[![Dev.to](https://img.shields.io/badge/dev.to-matthewntsiful-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/matthewntsiful)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/matthewntsiful)
+- Email: matthew.ntsiful@gmail.com
+- LinkedIn: [matthewntsiful](https://linkedin.com/in/matthewntsiful)
+- GitHub: [@matthewntsiful](https://github.com/matthewntsiful)
 
 ---
 
-## 🎉 Fun Facts
+⭐️ *Star my repositories if you find them useful or inspiring!*
 
-- Advocate for AI-assisted development workflows
-- Enjoys fitness planning and structured challenges
-- Passionate about automation and infrastructure optimization
-- Constantly experimenting with new cloud services and tools
-- Enthusiast for elegant, efficient code and infrastructure solutions
-
----
-
-> 📢 _Always open to connect, collaborate, and share knowledge!_
+> 📢 _Always open to connect, collaborate, and share knowledge !_
