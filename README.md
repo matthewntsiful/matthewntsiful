@@ -16,58 +16,16 @@ I'm a Cloud & DevOps Engineer passionate about cloud infrastructure, automation,
 
 ## 🛠️ Core Skills & Tech Stack
 
-### Cloud
-- AWS (EC2, S3, ECS, ECR, Lambda, Elastic Beanstalk, CloudFront, IAM, VPC)
-
-### DevOps & CI/CD
-- GitHub Actions (Multi-stage pipelines, automated testing, deployment, Slack notifications via webhook)
-- Dependabot, CodeQL, SonarCloud, Trivy, Snyk (Security & Quality)
-- SonarQube (Code quality analysis)
-- Snyk (Vulnerability scanning)
-- Slack Webhook (CI/CD notifications)
-
-### Containerization
-- Docker, Docker Compose
-
-### Infrastructure
-- NGINX (Load Balancer, Reverse Proxy), Apache
-
-### Backend
-- Node.js, Express, Python (Flask), .NET, PostgreSQL, Redis
-
-### Frontend
-- HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap, React
-
-### Automation & Scripting
-- Bash, Linux administration, cron jobs
-
-### Other
-- Git, GitHub, GitHub Pages, Monitoring (CloudWatch, custom scripts)
-
----
-
-## 💻 Tech Stack Badges
-
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### Version Control & Collaboration
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+| Area                | Skills & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud**           | AWS (EC2, S3, ECS, ECR, Lambda, Elastic Beanstalk, CloudFront, IAM, VPC) <br> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **DevOps & CI/CD**  | GitHub Actions (Multi-stage pipelines, automated testing, deployment, Slack notifications via webhook) <br> Dependabot, CodeQL, SonarCloud, Trivy, Snyk, SonarQube, Slack Webhook <br> ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
+| **Containerization**| Docker, Docker Compose <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Infrastructure**  | NGINX (Load Balancer, Reverse Proxy), Apache <br> ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Backend**         | Node.js, Express, Python (Flask), .NET, PostgreSQL, Redis <br> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend**        | HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap, React <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Automation & Scripting** | Bash, Linux administration, cron jobs <br> ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Other**           | Git, GitHub, GitHub Pages, Monitoring (CloudWatch, custom scripts) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
