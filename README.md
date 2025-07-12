@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matthew Odoom Ntsiful
+# 👋 Hi, I'm Matthew Ntsiful
 
 [![Profile Views](https://komarev.com/ghpvc/?username=matthewntsiful&color=blue&style=flat)](https://github.com/matthewntsiful)
 [![GitHub followers](https://img.shields.io/github/followers/matthewntsiful?label=Follow&style=social)](https://github.com/matthewntsiful)
