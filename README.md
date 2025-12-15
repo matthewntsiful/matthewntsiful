@@ -7,7 +7,7 @@ Cloud & DevOps Engineer | Developer | Automation Enthusiast
 
 [![Email](https://img.shields.io/badge/Email-matthew.ntsiful@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:matthew.ntsiful@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matthewntsiful-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewntsiful)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-green?style=flat-square&logo=aws&logoColor=white)](http://Profile-site-app-env.eba-vnkknerx.eu-north-1.elasticbeanstalk.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-green?style=flat-square&logo=aws&logoColor=white)](https://matthewntsiful.com)
 
 ---
 
@@ -145,7 +145,7 @@ _Check individual repositories for specific contribution guidelines._
 [![Email](https://img.shields.io/badge/Email-matthew.ntsiful@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew.ntsiful@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matthewntsiful-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewntsiful)
 [![GitHub](https://img.shields.io/badge/GitHub-matthewntsiful-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewntsiful)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=aws&logoColor=white)](http://Profile-site-app-env.eba-vnkknerx.eu-north-1.elasticbeanstalk.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=aws&logoColor=white)](https://matthewntsiful.com)
 
 ---
 
